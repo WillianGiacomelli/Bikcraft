@@ -6,9 +6,12 @@
 
 #### Bem-vindo ao repositório do projeto Bikcraft! Este é um projeto incrível desenvolvido como parte do curso de HTML e CSS da plataforma Origamid. Bikcraft é uma marca fictícia de bicicletas elétricas equipadas com GPS, criada com o objetivo de explorar e aprimorar as habilidades em design e desenvolvimento web.
 
+
 ### Sobre o Projeto
 
 Bikcraft é uma empresa inovadora que busca unir a mobilidade sustentável das bicicletas elétricas com a tecnologia avançada do GPS. As bicicletas são projetadas com materiais de alta qualidade, estilo moderno e funcionalidades inteligentes. Este projeto foi desenvolvido para demonstrar as habilidades adquiridas no curso da Origamid, destacando as técnicas de HTML, CSS e design responsivo.
+
+<a href="https://williangiacomelli.github.io/Bikcraft/bicicletas.html">Projeto Online</a>
 
 ## Funcionalidades
 
