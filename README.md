@@ -16,7 +16,7 @@ Design Responsivo: O Bikcraft é totalmente responsivo, garantindo uma experiên
 
 #### Se você deseja visualizar o projeto Bikcraft em sua máquina local, siga estas instruções:
 
-Clone o repositório: git clone https://github.com/seu-usuario/bikcraft.git.<br>
+Clone o repositório: git clone https://github.com/WillianGiacomelli/Bikcraft<br>
 Abra o arquivo index.html em seu navegador preferido.<br>
 
 #### Créditos
